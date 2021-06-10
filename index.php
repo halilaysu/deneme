@@ -4,5 +4,7 @@ $i = 0;
 
 if($i == 0){
 	 echo "string";
+}else{
+	retun $i;
 }
 ?>
