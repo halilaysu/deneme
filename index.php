@@ -7,4 +7,8 @@ if($i == 0){
 }else{
 	retun $i;
 }
+
+for($j = 0; $j<12; $j++){
+	echo "deneme";
+}
 ?>
