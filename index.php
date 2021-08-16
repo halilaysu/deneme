@@ -5,7 +5,8 @@ $i = 0;
 if($i == 0){
 	 echo "string";
 }else{
-	retun $i;
+	$i = 3;
+	return $i;
 }
 
 for($j = 0; $j<12; $j++){
