@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa67934b-e2da-4513-b3e4-58f8ce9581dc" name="Default Changelist" comment="">
+    <list default="true" id="aa67934b-e2da-4513-b3e4-58f8ce9581dc" name="Default Changelist" comment="gitignore olusturuldu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -35,11 +37,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629141380802</updated>
-      <workItem from="1629141381972" duration="434000" />
+      <workItem from="1629141381972" duration="1683000" />
     </task>
+    <task id="LOCAL-00001" summary="gitignore olusturuldu">
+      <created>1629142707704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629142707704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore olusturuldu" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore olusturuldu" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="92" key="CommitChangelistDialog2" timestamp="1629142913952">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="465" y="92" key="CommitChangelistDialog2/1680.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1629142913952" />
+    <state x="432" y="224" key="Vcs.Push.Dialog.v2" timestamp="1629142710006">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="224" key="Vcs.Push.Dialog.v2/1680.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1629142710006" />
   </component>
 </project>
