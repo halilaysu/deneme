@@ -9,6 +9,6 @@ if($i == 0){
 }
 
 for($j = 0; $j<12; $j++){
-	echo "deneme";
+	echo "denemedsafasa";
 }
 ?>
